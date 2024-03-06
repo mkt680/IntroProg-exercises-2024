@@ -1,3 +1,3 @@
-def myfun(n):
-    for i in range(n):
-        print('hello world!')
+def myfuns(x, y):
+    z = x*y
+    print(z)

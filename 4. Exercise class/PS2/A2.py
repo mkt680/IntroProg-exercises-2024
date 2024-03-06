@@ -1,4 +1,4 @@
-# a. parameter choices
+import numpy as np
 sigma = 3.14
 omega = 2
 N = 10000
